@@ -1,0 +1,26 @@
+body { 
+  background: url(back1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.login-box{
+	/*max-width: 700px;
+	float: none;
+	margin-top: 150px;
+	align-items: center;*/
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  margin-top: 150px;
+	  max-width: 700px;
+}
+.login-left{
+	background: #c6bcb6;
+	padding: 20px;
+}
+.register-right{
+	background: #96897f;
+	padding: 20px;
+}
